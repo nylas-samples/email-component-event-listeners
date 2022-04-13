@@ -32,8 +32,8 @@ export class App extends React.Component {
       <div className="App">
         <h1>Nylas Email</h1>
         <nylas-email
-          id="1709d4f8-920d-4f92-b0d1-7ea7a6f092b1"
-          thread_id="7ml84jdmfnw20sq59f30hirhe"
+        id="759a1f79-0467-4fd1-8f02-9384bd2ff31f"
+        thread_id="we7ml80n6x9hjnlsohs2v658"
           show_star={true}
           show_contact_avatar="false"
           show_expanded_email_view_onload={true}
